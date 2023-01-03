@@ -369,9 +369,9 @@ section .title::after{
     height: 100%;
     left: 0;
     top: 0;
-    background: lightgreen;
+    background: crimson;
 }
-.skills-content .right .vue.js ::before{
+.skills-content .right .vue ::before{
     width: 90%;
 }
 .skills-content .right .flutter::before{
